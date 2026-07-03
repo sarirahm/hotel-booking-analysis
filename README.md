@@ -29,7 +29,7 @@ This project aims to answer several business questions such as:
 * **Features:** 32 columns
 
 The dataset contains booking information for both Resort Hotels and City Hotels, including customer characteristics, reservation details, stay duration, booking channels, and cancellation status.
-
+https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 ---
 
 ## 🛠️ Tools & Technologies
