@@ -72,10 +72,10 @@ Business Recommendation
 hotel-booking-analysis/
 │
 ├── data/
+│   ├── data_dictionary.md
 ├── notebooks/
-│   ├── 01_Business_Understanding.ipynb
-│   ├── 02_Data_Cleaning.ipynb
-│   └── 03_EDA.ipynb
+│   ├── 01_Project_Overview.ipynb
+│   ├── 02_Business_Understanding.ipynb
 │
 ├── sql/
 │   ├── 01_data_exploration.sql
